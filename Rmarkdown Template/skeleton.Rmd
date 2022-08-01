@@ -14,7 +14,6 @@ address:
 - code: '2'
   address: Fake Place
 output:
-  papaja::apa6_pdf:
   pdf_document: 
     template: template.tex
     keep_tex: yes
