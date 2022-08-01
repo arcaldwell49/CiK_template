@@ -1,0 +1,5 @@
+\begin{figure*}[hbt]
+\ifnextchar[{\eatarg}{}
+[H]
+\includegraphics[width=1\linewidth]{STORK_overlay_blk} \caption{Figure 1: Somtimes greek in captions as well $\beta$ but make sure to use double backslash}\label{fig:fig1pdf}
+\end{figure*}
