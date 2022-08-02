@@ -45,32 +45,6 @@ site: bookdown::bookdown_site
 header-includes:
     - \usepackage{caption}
 ---
-\captionsetup[table]{labelformat=empty}
-\captionsetup[figure]{labelformat=empty}
-\raggedbottom
-
-<style>
-  .flat-table {
-    display: block;
-    font-family: sans-serif;
-    -webkit-font-smoothing: antialiased;
-    font-size: 115%;
-    overflow: auto;
-    width: auto;
-  }
-  thead {
-    background-color: rgba(207, 250, 209, 0.75);
-    color: black;
-    font-weight: normal;
-    padding: 20px 30px;
-    text-align: center;
-  }
-  tbody {
-    background-color: rgba(238, 238, 238, 0.75);
-    color: black;
-    padding: 20px 30px;
-  }
-</style>
 
 ```{r setup, include=FALSE}
 # To COMPILE RUN THE CODE BELOW
