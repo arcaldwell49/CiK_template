@@ -37,3 +37,10 @@ vignettes/*.pdf
 
 /skeleton_cache
 *.zip
+
+# files
+
+skeleton.pdf
+skeleton.html
+skeleton.md
+skeleton.tex
